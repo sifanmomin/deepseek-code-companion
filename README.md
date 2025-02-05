@@ -1,5 +1,7 @@
 # DeepSeek Code Companion
 
+![App Screenshot](https://github.com/sifanmomin/T20-World-Cup-Cricket-Data-Analytics/blob/main/power_hitter)
+
 🧠 DeepSeek Code Companion is an AI-powered pair programming assistant built with Streamlit, Ollama, and LangChain. It helps you with coding, debugging, and documentation.
 
 ## Features
